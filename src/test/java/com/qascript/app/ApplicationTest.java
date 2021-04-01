@@ -11,7 +11,7 @@ public class ApplicationTest {
     public void testApplication(){
         try{
 <<<<<<< HEAD
-            Assert.assertEquals("Hello Wccccorld!", app.getMessage());
+            Assert.assertEquals("Hellofgfgfgfgd Wccccorld!", app.getMessage());
         }
         catch (Exception e){
             Assert.fail("Message is yyyyyyyy not Hello World!");
