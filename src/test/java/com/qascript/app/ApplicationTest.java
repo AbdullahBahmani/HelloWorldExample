@@ -10,17 +10,10 @@ public class ApplicationTest {
     @Test
     public void testApplication(){
         try{
-<<<<<<< HEAD
-            Assert.assertEquals("Hellofgfdfdfdgfgfgd Wccccorld!", app.getMessage());
-        }
-        catch (Exception e){
-            Assert.fail("Message is yyyyyyyy not Hello World!");
-=======
             Assert.assertEquals("Hello World!", app.getMessage());
         }
         catch (Exception e){
-            Assert.fail("Message is  not Hello World!");
->>>>>>> 95365e30b219f84a8530e78e50533504ef3063f8
+            Assert.fail("Message is  not Hello Worldno no no ");
         }
     }
 }
